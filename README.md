@@ -116,6 +116,7 @@
 - [Services status](https://status.solana.com/) an official site
 - [Solana Beach](https://solanabeach.io/) services status and block explorer
 - [Solana Validators](https://www.validators.app/) view validators statistics
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ### Ethereum related
 - [Neon EVM](https://neon-labs.org/) is an Ethereum virtual machine on Solana that enables dApp developers to use Ethereum tooling to scale and get access to liquidity on Solana.
